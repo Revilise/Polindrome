@@ -1,6 +1,5 @@
 const browserSync = require('browser-sync'),
-    gulp = require('gulp'),
-    browSync = require('browser-sync');
+    gulp = require('gulp');
 
 
 function BS() {
