@@ -35,13 +35,9 @@ body {
 }
 #input-poli {
 	border: none;
-	/*border-bottom: 3px solid rgb(2, 108, 207);*/
 	text-align: center;
 	padding: 5px;
 	font-size: 18px;
-}
-#input-poli::placeholder {
-	content: attr(data-placeholder);
 }
 #input-poli:focus {
 	outline: none;
