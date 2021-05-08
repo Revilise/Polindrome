@@ -1,5 +1,4 @@
-var title = document.getElementById("title");
-	result = document.getElementById("result"),
+var result = document.getElementById("result"),
 	input = document.getElementById("input-poli"),
 	btn = document.getElementById("btn");
 
